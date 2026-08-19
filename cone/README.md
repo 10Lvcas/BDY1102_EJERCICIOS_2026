@@ -1,1 +1,1 @@
-aca guardar el script y las otras cosas
+aca guardar el script y wallet
